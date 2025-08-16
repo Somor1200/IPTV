@@ -1,6 +1,6 @@
 # IPTV
 
-🌟 IPTV Playlist – BD 🇧🇩 | IN 🇮🇳 Sports ⚽ | English 🇬🇧 Channels Experience smooth streaming of Bangladesh India sports and popular English TV channels in one curated playlist.
+🌟 IPTV Playlist – BD 🇧🇩 | IN 🇮🇳 | Sports ⚽ | English 🇬🇧 Channels Experience smooth streaming of Bangladesh India sports and popular English TV channels in one curated playlist.
 
 
       🎯 Daily Updated M3U Links
