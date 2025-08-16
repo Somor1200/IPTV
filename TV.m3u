@@ -123,8 +123,8 @@ https://
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",T SPORTS HD
 https://
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN BANGLA",ZEE BANGLA HD
-https://
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/05/Zee_Bangla_HD_%282025%29_2D.png/revision/latest?cb=20250521040655" group-title="INDIAN BANGLA",ZEE BANGLA HD
+https://tvsen5.aynaott.com/PNEb3v2q6GBk/tracks-v1a1/mono.ts.m3u8?e=1754812292&token=14674aa2b8d3658b329a595a5fab4e7d&u=9a031201-22d8-4f7e-9516-7d246a8fedc3
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN BANGLA",STAR JALSHA HD
 https://
