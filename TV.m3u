@@ -1,10 +1,10 @@
 #EXTM3U url-tvg=""
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/BTVHD.webp/revision/latest?cb=20230506095329" group-title="BANGLADESH",BTV HD
-https://tvsen6.aynaott.com/btvhd/tracks-v1a1/mono.ts.m3u8?e=1753741215&token=a4bfbc76d204a2593be64e3241abae09&u=9a031201-22d8-4f7e-9516-7d246a8fedc3
+https://tvsen6.aynaott.com/btvhd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/BTV_Chattogram_Logo.svg/revision/latest/scale-to-width-down/250?cb=20240908184854" group-title="BANGLADESH",BTV CHITTAGONG
-https://tvsen6.aynaott.com/btvctg/tracks-v1a1/mono.ts.m3u8?e=1753741240&token=53499e93cb788d175ff8df88e1fe6fa6&u=9a031201-22d8-4f7e-9516-7d246a8fedc3
+https://tvsen6.aynaott.com/btvctg/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/BTVNewsLogo.png/revision/latest?cb=20250103175037" group-title="BANGLADESH",BTV NEWS HD
 https://
