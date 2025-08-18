@@ -168,10 +168,10 @@ https://
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",SONY PAL HD
 https://
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",SONY SAB HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.imgbin.com/9/23/9/sony-sab-logo-sony-sab-logo-in-orange-and-black-2s4K8QVL.jpg" group-title="INDIAN",SONY SAB HD
 https://
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/z-cinema.png" group-title="INDIAN",ZEE CINEMA HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zee_Cinema_2025.svg/1600px-Zee_Cinema_2025.svg.png?20250608063155" group-title="INDIAN",ZEE CINEMA HD
 https://
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
