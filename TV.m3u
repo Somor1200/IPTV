@@ -39,10 +39,10 @@ https://
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c0/Banglavision_HD.png/revision/latest?cb=20230512071222" group-title="BANGLADESH",BANGLAVISION HD
 https://tvsen5.aynaott.com/banglavision/index.m3u8?e=1753741197&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=471c8c3f6a6fd5aad81f265f11e3ed2b
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",MY TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/1/10/MyTV_HD_logo_2020.png/revision/latest?cb=20231214072547" group-title="BANGLADESH",MY TV HD
 https://
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",MOHONA TELEVISION HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/68/Mohona_TV_HD_2021.png/revision/latest?cb=20240826030713" group-title="BANGLADESH",MOHONA TELEVISION HD
 https://
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",INDEPENDENT TELEVISION HD
