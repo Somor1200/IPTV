@@ -138,19 +138,19 @@ https://
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN BANGLA",ZEE BANGLA CINEMA HD
 https://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN BANGLA",COLORS BANGLA HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Colors_Bangla_HD_%282016-present%29.png/revision/latest?cb=20210420120554" group-title="INDIAN BANGLA",COLORS BANGLA HD
 https://
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN BANGLA",COLORS BANGLA CINEMA
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/7/7e/Colors_Bangla_Cinema_logo_%282024-present%29.png/revision/latest?cb=20240529000723" group-title="INDIAN BANGLA",COLORS BANGLA CINEMA
 https://
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",ZEE TV HD
 https://
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",SONY ENTERNMENT HD
+#EXTINF:-1 tvg-id="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest?cb=20221023215435" tvg-logo="" group-title="INDIAN",SONY ENTERNMENT HD
 https://
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",STAR PLUS HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Plus_HD.png" group-title="INDIAN",STAR PLUS HD
 https://
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",COLORS HD
