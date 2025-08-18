@@ -147,7 +147,7 @@ https://
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",ZEE TV HD
 https://
 
-#EXTINF:-1 tvg-id="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest?cb=20221023215435" tvg-logo="" group-title="INDIAN",SONY ENTERNMENT HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest?cb=20221023215435" group-title="INDIAN",SONY ENTERNMENT HD
 https://
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Plus_HD.png" group-title="INDIAN",STAR PLUS HD
