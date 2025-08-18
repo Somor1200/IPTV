@@ -162,10 +162,7 @@ https://tvsen5.aynaott.com/Wfn4bVp3dLgA/tracks-v1a1/mono.ts.m3u8?e=1753741256&to
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",& PICTURES HD
 https://
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",B4U MOVIES HD
-https://
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",SONY PAL HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/B4U_Network.png/revision/latest?cb=20240319195658" group-title="INDIAN",B4U MOVIES HD
 https://
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.imgbin.com/9/23/9/sony-sab-logo-sony-sab-logo-in-orange-and-black-2s4K8QVL.jpg" group-title="INDIAN",SONY SAB HD
