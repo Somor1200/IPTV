@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=412170,https://epg.pw/api/epg.xml?channel_id=404001"
+#EXTM3U url-tvg=""
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/BTVHD.webp/revision/latest?cb=20230506095329" group-title="BANGLADESH",BTV HD
 https://tvsen6.aynaott.com/btvhd/tracks-v1a1/mono.ts.m3u8?e=1753741215&token=a4bfbc76d204a2593be64e3241abae09&u=9a031201-22d8-4f7e-9516-7d246a8fedc3
