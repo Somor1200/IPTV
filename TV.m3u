@@ -105,8 +105,7 @@ https://
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/3c/Channel_S_logo.png/revision/latest?cb=20240903012927" group-title="BANGLADESH",CHANNEL S HD
 https://
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/2/27/Desh_TV_on-screen_logo_2022.png/revision/latest?cb=20240826033444" group-title="BANGLADESH",DESH TV HD
-https://
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",DESH TV
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/0b/Nexus_Television_HD_logo.png/revision/latest?cb=20241009111738" group-title="BANGLADESH",NEXUS TELEVISION HD
 https://
@@ -135,7 +134,7 @@ https://
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20240320100806" group-title="INDIAN BANGLA",JALSHA MOVIES HD
 https://
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN BANGLA",ZEE BANGLA CINEMA HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/f7/Zee_Bangla_Cinema_%282025%29_2D.png/revision/latest?cb=20250521042015" group-title="INDIAN BANGLA",ZEE BANGLA CINEMA HD
 https://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Colors_Bangla_HD_%282016-present%29.png/revision/latest?cb=20210420120554" group-title="INDIAN BANGLA",COLORS BANGLA HD
@@ -171,7 +170,7 @@ https://
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zee_Cinema_2025.svg/1600px-Zee_Cinema_2025.svg.png?20250608063155" group-title="INDIAN",ZEE CINEMA HD
 https://
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 
