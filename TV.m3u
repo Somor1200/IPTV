@@ -72,10 +72,10 @@ https://tvsen5.aynaott.com/maasrangatv/index.m3u8?e=1753741198&u=9a031201-22d8-4
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e4/Channel_9_HD.png/revision/latest?cb=20230701115510" group-title="BANGLADESH",CHANNEL 9 HD
 https://tvsen6.aynaott.com/channel9/index.m3u8?e=1753741202&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=fcef513d044b3117e5604d8d6223b025
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",GTV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Gtvhd.png/revision/latest?cb=20230423174054" group-title="BANGLADESH",GTV HD
 https://
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",ASIAN TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/34/Asian_TV_HD_logo.png/revision/latest?cb=20210904044948" group-title="BANGLADESH",ASIAN TV HD
 https://
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",SA TV HD
