@@ -200,7 +200,8 @@ https://tvsen6.aynascope.net/b4umusic/index.m3u8?e=1755858586&u=844ab120-9c51-40
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg/revision/latest?cb=20191221070908" group-title="MUSIC", MUSIC INDIA HD
 https://tvsen6.aynascope.net/MusicIndia/index.m3u8?e=1755858617&u=844ab120-9c51-4053-ab18-bc85cfcfabb5&token=5c1f1f9003243853c9c14f957fd3977c
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635" group-title="EDUCATIONAL",ANIMAL PLANT HD
+https://tvsen6.aynascope.net/animal_planet_hd/index.m3u8?e=1755858626&u=844ab120-9c51-4053-ab18-bc85cfcfabb5&token=ef793b9818e8c87bd723f21a104f091b
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 
