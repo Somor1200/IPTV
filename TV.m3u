@@ -197,7 +197,8 @@ https://tvsen6.aynascope.net/SangeetBangla/index.m3u8?e=1755858582&u=844ab120-9c
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png/revision/latest?cb=20240608155112" group-title="MUSIC",B4U MUSIC HD
 https://tvsen6.aynascope.net/b4umusic/index.m3u8?e=1755858586&u=844ab120-9c51-4053-ab18-bc85cfcfabb5&token=e0e9bbe6b7c668ffc167fd5e4c021559
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg/revision/latest?cb=20191221070908" group-title="MUSIC", MUSIC INDIA HD
+https://tvsen6.aynascope.net/MusicIndia/index.m3u8?e=1755858617&u=844ab120-9c51-4053-ab18-bc85cfcfabb5&token=5c1f1f9003243853c9c14f957fd3977c
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 
