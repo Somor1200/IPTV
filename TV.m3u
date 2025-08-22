@@ -191,7 +191,8 @@ https://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8?e=1755858596&u=844ab120-9c5
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="SPORTS",A SPORTS HD
 https://tvsen7.aynascope.net/asports-bkp/index.m3u8?e=1755858575&u=844ab120-9c51-4053-ab18-bc85cfcfabb5&token=28a8ae4fba9b3af81ee7a7791466a91d
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Sangeet_Bangla_2025.png/revision/latest?cb=20250610095819" group-title="MUSIC",SANGEET BANGLA HD
+https://tvsen6.aynascope.net/SangeetBangla/index.m3u8?e=1755858582&u=844ab120-9c51-4053-ab18-bc85cfcfabb5&token=5060021eb6930f999c1a48c9aeaf7d91
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 
