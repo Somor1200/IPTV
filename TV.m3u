@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=""
+#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/BTVHD.webp/revision/latest?cb=20230506095329" group-title="BANGLADESH",BTV HD
 https://tvsen6.aynaott.com/btvhd/tracks-v1a1/mono.m3u8
