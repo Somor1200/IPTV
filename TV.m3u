@@ -1,16 +1,16 @@
 #EXTM3U url-tvg=""
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/BTVHD.webp/revision/latest?cb=20230506095329" group-title="BANGLADESH",BTV HD
-https://tvsen6.aynaott.com/btvhd/tracks-v1a1/mono.m3u8
+http://starshare.fun:8080/live/keerthi5599/superdeal34/998.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/BTV_Chattogram_Logo.svg/revision/latest/scale-to-width-down/250?cb=20240908184854" group-title="BANGLADESH",BTV CHITTAGONG
-https://tvsen6.aynaott.com/btvctg/tracks-v1a1/mono.m3u8
+http://starshare.fun:8080/live/keerthi5599/superdeal34/3818.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/BTVNewsLogo.png/revision/latest?cb=20250103175037" group-title="BANGLADESH",BTV NEWS HD
-https://
+http://starshare.fun:8080/live/keerthi5599/superdeal34/998.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/BTV_World_logo_new.png/revision/latest?cb=20250103171114" group-title="BANGLADESH",BTV WORLD HD
-https://
+http://starshare.fun:8080/live/keerthi5599/superdeal34/998.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/f1/Sangsad_TV_logo.png/revision/latest?cb=20210904041009" group-title="BANGLADESH",SANGSAD BANGLADESH
 https://
