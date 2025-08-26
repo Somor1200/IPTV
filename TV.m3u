@@ -125,12 +125,10 @@ https://tvsen4.aynaott.com/durontotv/index.m3u8
 https://tvsen5.aynaott.com/tsports/index.m3u8?e=1753741198&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=d0887359c0f079f540d3a03673e9f0e3
 
 #EXTINF:-1 tvg-id="404001" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/05/Zee_Bangla_HD_%282025%29_2D.png/revision/latest?cb=20250521040655" group-title="INDIAN BANGLA",ZEE BANGLA HD
-#https://tvsen5.aynaott.com/PNEb3v2q6GBk/tracks-v1a1/mono.ts.m3u8?e=1754812292&token=14674aa2b8d3658b329a595a5fab4e7d&u=9a031201-22d8-4f7e-9516-7d246a8fedc3
-https://tvsen5.aynascope.net/PNEb3v2q6GBk/index.m3u8?e=1756049660&u=844ab120-9c51-4053-ab18-bc85cfcfabb5&token=68fee79bcdc250833e006188bb5b0537
+http://starshare.fun:8080/live/keerthi5599/superdeal34/435.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c0/Star_Jalsha_HD_logo_%282019%29.png/revision/latest?cb=20210528110230" group-title="INDIAN BANGLA",STAR JALSHA HD
-#https://tvsen5.aynaott.com/gUX8BJmNc2yF/index.m3u8
-https://tvsen7.aynascope.net/sjhdbd/index.m3u8?e=1756049660&u=844ab120-9c51-4053-ab18-bc85cfcfabb5&token=e9754f81eb7b9aae3a1405123e645bff
+http://starshare.fun:8080/live/keerthi5599/superdeal34/98883.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png/revision/latest?cb=20221023220726" group-title="INDIAN BANGLA",SONY AATH HD
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
