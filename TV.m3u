@@ -123,8 +123,15 @@ http://starshare.fun:8080/live/keerthi5599/superdeal34/433.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png/revision/latest?cb=20231121101305" group-title="SPORTS",TSPORTS HD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/130714.ts
 
+#EXTINF:-1 tvg-id="404001" tvg-logo="" group-title="INDIAN BANGLA",ZEE BANGLA SD
+
+
 #EXTINF:-1 tvg-id="404001" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/05/Zee_Bangla_HD_%282025%29_2D.png/revision/latest?cb=20250521040655" group-title="INDIAN BANGLA",ZEE BANGLA HD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/435.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN BANGLA",STAR JALSHA SD
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c0/Star_Jalsha_HD_logo_%282019%29.png/revision/latest?cb=20210528110230" group-title="INDIAN BANGLA",STAR JALSHA HD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/98883.ts
