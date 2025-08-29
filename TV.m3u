@@ -25,7 +25,8 @@ http://starshare.fun:8080/live/keerthi5599/superdeal34/427.ts
 http://starshare.fun:8080/live/keerthi5599/superdeal34/34665.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e8/Ekushey_Television_HD_logo_2024.png/revision/latest?cb=20241009111045" group-title="BANGLADESH",EKUSHEY TV HD
-http://starshare.fun:8080/live/keerthi5599/superdeal34/3813.ts
+#http://starshare.fun:8080/live/keerthi5599/superdeal34/3813.ts
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/08/NTV_logo_2003.png/revision/latest?cb=20210903091604" group-title="BANGLADESH",NTV HD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/424.ts
