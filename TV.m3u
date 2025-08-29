@@ -41,7 +41,8 @@ http://starshare.fun:8080/live/keerthi5599/superdeal34/390.ts
 http://starshare.fun:8080/live/keerthi5599/superdeal34/426.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/1/10/MyTV_HD_logo_2020.png/revision/latest?cb=20231214072547" group-title="BANGLADESH",MY TV HD
-http://starshare.fun:8080/live/keerthi5599/superdeal34/398.ts
+#http://starshare.fun:8080/live/keerthi5599/superdeal34/398.ts
+https://mytvbangla.com/0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/68/Mohona_TV_HD_2021.png/revision/latest?cb=20240826030713" group-title="BANGLADESH",MOHONA TV HD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/397.ts
