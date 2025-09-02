@@ -183,13 +183,13 @@ https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/colorshd/master.m3u8
 
 #EXTINF:-1 tvg-id="412170" tvg-logo="" group-title="INDIAN",SONY MAX SD
-http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=276916&extension=m3u8&play_token=prOiLwieks
+http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=276916&extension=ts&play_token=prOiLwieks
 
 #EXTINF:-1 tvg-id="412170" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Sony_Max_HD_2022.png/revision/latest?cb=20221025030422" group-title="INDIAN",SONY MAX HD
-http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=276916&extension=m3u8&play_token=prOiLwieks
+http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=276916&extension=ts&play_token=prOiLwieks
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",STAR GOLD HD
-http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=276910&extension=m3u8&play_token=kBnaTCb9ot
+http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=276910&extension=ts&play_token=kBnaTCb9ot
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="INDIAN",& PICTURES HD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/231.ts
@@ -207,7 +207,7 @@ http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=276907&extensio
 https://d14c63magvk61v.cloudfront.net/strm/channels/9xm/m4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png/revision/latest?cb=20191130100054" group-title="EDUCATIONAL",DISCOVERY BANGLA HD
-http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=277415&extension=m3u8&play_token=nrDDIKbzCX
+http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=277415&extension=ts&play_token=nrDDIKbzCX
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Star-sports-select-1-hd.png/revision/latest?cb=20230128174313" group-title="SPORTS",STAR SPORTS SELECT 1 HD
 https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
@@ -231,7 +231,7 @@ https://tvsen6.aynascope.net/b4umusic/index.m3u8?e=1755858586&u=844ab120-9c51-40
 https://tvsen6.aynascope.net/MusicIndia/index.m3u8?e=1755858617&u=844ab120-9c51-4053-ab18-bc85cfcfabb5&token=5c1f1f9003243853c9c14f957fd3977c
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635" group-title="EDUCATIONAL",ANIMAL PLANT HD
-http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=277315&extension=m3u8&play_token=N8TFr8oXVD
+http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=277315&extension=ts&play_token=N8TFr8oXVD
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/1/1f/National_Geographic_HD_%282016-.n.v.%29.png/revision/latest?cb=20180304103328" group-title="EDUCATIONAL",NATIONAL GEOGRAPHIC HD
 http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=277422&extension=ts&play_token=oEN0X1gPSK
