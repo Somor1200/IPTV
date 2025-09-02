@@ -236,15 +236,6 @@ http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=277315&extensio
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/1/1f/National_Geographic_HD_%282016-.n.v.%29.png/revision/latest?cb=20180304103328" group-title="EDUCATIONAL",NATIONAL GEOGRAPHIC HD
 https://tvsen6.aynascope.net/natgeo/index.m3u8?e=1755858628&u=844ab120-9c51-4053-ab18-bc85cfcfabb5&token=31801d4cafc4024e35624df3fede28c3
 
-#EXTINF:-1 tvg-id="" tvg-name="Sony MAX 2" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ii5_-JQBv9knK3AHLDV3/posters/d961cc87-81b6-4b30-8414-8c0af2774818.webp" group-title="Movies",Sony MAX 2
-#EXTVLCOPT:http-cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1756363735:KeyName=prod_linear:Signature=I2WJj3aNJGAPpF5hgPhn9Vmw-TVK7jGgNs7zzAEY0R5YnCDISdAAUjHDS5AC4DCjeqAMfgG_y6269TdQBaGACw
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sonymax_2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="sonymaxhd" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp" group-title="Movies",Sony MAX HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1756433520:KeyName=prod_linear:Signature=koXqwAvsBjFsVfQQIbZeDZkbvOGivdfZzCNlH0Gtrnrfxn8_5rRwklYkkdVzU7Wc8IKM4s1rY515TAvRuxWHBA
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max_hd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
