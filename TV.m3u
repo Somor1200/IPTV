@@ -222,7 +222,7 @@ https://d9.merichunidya.com:1686/hls/asportshd.m3u8?md5=cUvINGZcikIBW7SfwA75BA&e
 https://d9.merichunidya.com:1686/hls/asportshd.m3u8?md5=cUvINGZcikIBW7SfwA75BA&expires=1756051067
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Sangeet_Bangla_2025.png/revision/latest?cb=20250610095819" group-title="MUSIC",SANGEET BANGLA HD
-https://tvsen6.aynascope.net/SangeetBangla/index.m3u8?e=1755858582&u=844ab120-9c51-4053-ab18-bc85cfcfabb5&token=5060021eb6930f999c1a48c9aeaf7d91
+https://cdn-4.pishow.tv/live/1143/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png/revision/latest?cb=20240608155112" group-title="MUSIC",B4U MUSIC HD
 https://tvsen6.aynascope.net/b4umusic/index.m3u8?e=1755858586&u=844ab120-9c51-4053-ab18-bc85cfcfabb5&token=e0e9bbe6b7c668ffc167fd5e4c021559
