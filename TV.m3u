@@ -199,6 +199,9 @@ http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=276916&extensio
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",STAR GOLD HD
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldhd/master.m3u8
 
+#EXTINF:-1 tvg-id="stargoldselecthd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldselecthd.png" group-title="Movies",Star Gold Select HD
+https://live.dinesh29.com.np/stream/jiotvplus/stargoldselecthd/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="INDIAN",& PICTURES HD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/231.ts
 
