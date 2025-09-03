@@ -123,6 +123,9 @@ http://starshare.fun:8080/live/keerthi5599/superdeal34/3807.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/ed/Duronto_TV_logo.png/revision/latest?cb=20230525082520" group-title="KID'S",DURONTO HD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/433.ts
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KID'S",NICK HD
+https://live.dinesh29.com.np/stream/jiotvplus/nickhindi/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png/revision/latest?cb=20231121101305" group-title="SPORTS",TSPORTS HD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/130714.ts
 
@@ -151,6 +154,9 @@ http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=277425&extensio
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20240320100806" group-title="INDIAN BANGLA",JALSHA MOVIES HD
 #https://tiger-hub.vercel.app/Jalsha_movies/tracks-v1a1/mono.ts.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/c/c9/%E0%A6%8F%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%A7%E0%A7%A6_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" group-title="INDIAN BANGLA",ENTER10 BANGLA HD
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
