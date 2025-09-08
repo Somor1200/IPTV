@@ -197,7 +197,7 @@ https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Star_Gold_HD_2020.svg/revision/latest/scale-to-width-down/250?cb=20211215232828" group-title="INDIAN",STAR GOLD HD
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldhd/master.m3u8
 
-#EXTINF:-1 tvg-id="stargoldselecthd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldselecthd.png" group-title="Movies",Star Gold Select HD
+#EXTINF:-1 tvg-id="stargoldselecthd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldselecthd.png" group-title="INDIAN",STAR GOLD SELECT HD
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldselecthd/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="INDIAN",& PICTURES HD
