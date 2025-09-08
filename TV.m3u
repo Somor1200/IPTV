@@ -249,7 +249,7 @@ http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=277422&extensio
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/SONY_YAY.png/revision/latest?cb=20221023221825" group-title="INDIAN",SONY YAY
 https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Sony_MARATHI.png/revision/latest?cb=20221023220742" group-title="INDIAN",
 SONY MARATHII
 https://tataplay.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8
 
