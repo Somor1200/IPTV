@@ -256,7 +256,7 @@ https://tataplay.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",SONY PAL
 https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN", SONY MAX 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Sony-max-2-in.png/revision/latest?cb=20221026151354" group-title="INDIAN", SONY MAX 2
 https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN", SONY WAH
