@@ -253,7 +253,7 @@ https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 SONY MARATHII
 https://tataplay.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/SONY_PAL_LOGO.png/revision/latest?cb=20221023220705" group-title="INDIAN",SONY PAL
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-PAL-New-Logo.png" group-title="INDIAN",SONY PAL 
 https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX2-New-Logo.png" group-title="INDIAN", SONY MAX 2
@@ -265,7 +265,7 @@ https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Marathi-HD-New-Logo.png" tvg-chno="5" group-title="Sony LIV ",SONY MARATHI HD 
 https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Sony_pixhd_logo.png/revision/latest?cb=20221025034513" group-title="INDIAN",SONY PIX HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-PIX-HD-New-Logo.png" group-title="INDIAN",SONY PIX HD
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/RnzI34c.png/revision/latest?cb=20241102205151" group-title="EDUCATIONAL",SONY BBC EARTH HD
