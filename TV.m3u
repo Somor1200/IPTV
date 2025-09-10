@@ -159,10 +159,10 @@ https://live.dinesh29.com.np/stream/jiotvplus/nickhindi/master.m3u8
 #http://starshare.fun:8080/live/keerthi5599/superdeal34/130714.ts
 https://tvsen5.aynaott.com/tsports/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",CARTOON NETWORK
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KID'S",CARTOON NETWORK
 https://
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",SONIC
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KID'S",SONIC
 https://
 
 #EXTINF:-1 tvg-id="404001" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg/2000px-%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg.png" group-title="INDIAN BANGLA",ZEE BANGLA SD
@@ -211,10 +211,10 @@ https://live.dinesh29.com.np/stream/jiotvplus/colorsbengalihd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/7/7e/Colors_Bangla_Cinema_logo_%282024-present%29.png/revision/latest?cb=20240529000723" group-title="INDIAN BANGLA",COLORS BANGLA CINEMA HD
 https://tiger-hub.vercel.app/Colors-bangla-cinema/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",DD BANGLA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN BANGLA",DD BANGLA
 https://
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",NEWS18 BANGLA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN BANGLA",NEWS18 BANGLA
 https://
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://1000logos.net/wp-content/uploads/2025/05/Zee-TV-Logo-768x432.png" group-title="INDIAN",ZEE TV HD
@@ -226,15 +226,15 @@ https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Plus_HD.png" group-title="INDIAN",STAR PLUS HD
 https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",STAR BHARAT
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",STAR BHARAT
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="INDIAN",COLORS HD
 https://live.dinesh29.com.np/stream/jiotvplus/colorshd/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",COLORS CINEPLEX
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",COLORS CINEPLEX
 https://
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",COLORS INFINITY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",COLORS INFINITY
 https://
 
 #EXTINF:-1 tvg-id="412170" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Sony_MAX_SD.png/revision/latest?cb=20221023220126" group-title="INDIAN",SONY MAX SD
@@ -246,33 +246,33 @@ https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Star_Gold_HD_2020.svg/revision/latest/scale-to-width-down/250?cb=20211215232828" group-title="INDIAN",STAR GOLD HD
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldhd/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",STAR GOLD 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",STAR GOLD 2 HD
 
 #EXTINF:-1 tvg-id="stargoldselecthd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldselecthd.png" group-title="INDIAN",STAR GOLD SELECT HD
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldselecthd/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",STAR MOVIES HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",STAR MOVIES HD
 https://
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",STAR MOVIES SELECT HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",STAR MOVIES SELECT HD
 https://
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",STAR PRAVAH HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",STAR PRAVAH HD
 https://
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",STAR WORLD HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",STAR WORLD HD
 https://
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",STAR WORLD PREMIERE HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",STAR WORLD PREMIERE HD
 https://
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",&FLIX SD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",&FLIX SD
 https://
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",&FLIX HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",&FLIX HD
 https://
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",&PICTURES SD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",&PICTURES SD
 https://
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="INDIAN",&PICTURES HD
