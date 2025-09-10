@@ -139,7 +139,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://tvsen6.aynaott.com/deshtv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/0b/Nexus_Television_HD_logo.png/revision/latest?cb=20241009111738" group-title="BANGLADESH",NEXUS TV HD
-http://starshare.fun:8080/live/keerthi5599/superdeal34/411.ts
+#http://starshare.fun:8080/live/keerthi5599/superdeal34/411.ts
+https://tvsen6.aynaott.com/nexustv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/dd/Ekhon_TV_logo.png/revision/latest?cb=20231121093159" group-title="BANGLADESH",EKHON HD
 https://tvsen6.aynaott.com/ekhontv/index.m3u8
