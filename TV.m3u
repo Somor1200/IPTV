@@ -414,7 +414,8 @@ https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 https://tvsen7.aynaott.com/asports-bkp/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/ten-ckt-logo.png" group-title="SPORTS",TEN CRICKET HD
-https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/index.m3u8
+#https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/index.m3u8
+http://app.hughag.store/api/6b9c461155/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",EURO SPORTS HD
 https://
