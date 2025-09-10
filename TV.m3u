@@ -301,13 +301,6 @@ https://d14c63magvk61v.cloudfront.net/strm/channels/9xm/m4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",ZOOM
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Star-sports-select-1-hd.png/revision/latest?cb=20230128174313" group-title="SPORTS",STAR SPORTS SELECT 1 HD
-https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/Star-sports-select-2-hd.png/revision/latest?cb=20230128175317" group-title="SPORTS",STAR SPORTS SELECT 2 HD
-https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd2/master.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Sangeet_Bangla_2025.png/revision/latest?cb=20250610095819" group-title="MUSIC",SANGEET BANGLA HD
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 
@@ -410,6 +403,12 @@ https://d9.merichunidya.com:1686/hls/asportshd.m3u8?md5=cUvINGZcikIBW7SfwA75BA&e
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",STAR SPORTS 2 HD
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",STAR SPORTS 3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Star-sports-select-1-hd.png/revision/latest?cb=20230128174313" group-title="SPORTS",STAR SPORTS SELECT 1 HD
+https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/Star-sports-select-2-hd.png/revision/latest?cb=20230128175317" group-title="SPORTS",STAR SPORTS SELECT 2 HD
+https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd2/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 
