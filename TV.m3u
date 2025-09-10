@@ -128,7 +128,8 @@ http://starshare.fun:8080/live/keerthi5599/superdeal34/411.ts
 http://starshare.fun:8080/live/keerthi5599/superdeal34/3807.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/ed/Duronto_TV_logo.png/revision/latest?cb=20230525082520" group-title="KID'S",DURONTO HD
-http://starshare.fun:8080/live/keerthi5599/superdeal34/433.ts
+#http://starshare.fun:8080/live/keerthi5599/superdeal34/433.ts
+https://tvsen5.aynaott.com/durontotv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Nick_Splat_2023.png/revision/latest?cb=20240226050529" group-title="KID'S",NICK
 https://live.dinesh29.com.np/stream/jiotvplus/nickhindi/master.m3u8
