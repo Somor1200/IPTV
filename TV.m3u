@@ -16,7 +16,8 @@ http://starshare.fun:8080/live/keerthi5599/superdeal34/998.ts
 http://starshare.fun:8080/live/keerthi5599/superdeal34/413.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ATN_News_logo.svg/360px-ATN_News_logo.svg.png?20250123005257" group-title="BANGLADESH",ATN BANGLA HD
-http://starshare.fun:8080/live/keerthi5599/superdeal34/431.ts
+#http://starshare.fun:8080/live/keerthi5599/superdeal34/431.ts
+https://tvsen5.aynaott.com/atnbangla/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4d/ATN_News_HD.png/revision/latest?cb=20240806225614" group-title="BANGLADESH",ATN NEWS HD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/427.ts
@@ -33,7 +34,8 @@ https://tvsen6.aynascope.net/etv/index.m3u8?e=1756704939&u=844ab120-9c51-4053-ab
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/9c/RTV_HD_2021.png/revision/latest?cb=20231226043939" group-title="BANGLADESH",RTV HD
-http://starshare.fun:8080/live/keerthi5599/superdeal34/401.ts
+#http://starshare.fun:8080/live/keerthi5599/superdeal34/401.ts
+https://tvsen5.aynaott.com/RtvHD/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/08/Boishakhi_TV_HD_logo_2022.png/revision/latest?cb=20220515130850" group-title="BANGLADESH",BOISHAKHI TV HD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/390.ts
