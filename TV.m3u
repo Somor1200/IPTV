@@ -261,6 +261,9 @@ http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=276907&extensio
 https://d14c63magvk61v.cloudfront.net/strm/channels/9xm/m4.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/9xm/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",9X JALWA
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png/revision/latest?cb=20191130100054" group-title="EDUCATIONAL",DISCOVERY BANGLA HD
 http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=277415&extension=ts&play_token=nrDDIKbzCX
 
