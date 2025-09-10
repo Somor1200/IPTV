@@ -208,6 +208,9 @@ https://live.dinesh29.com.np/stream/jiotvplus/colorsbengalihd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/7/7e/Colors_Bangla_Cinema_logo_%282024-present%29.png/revision/latest?cb=20240529000723" group-title="INDIAN BANGLA",COLORS BANGLA CINEMA HD
 https://tiger-hub.vercel.app/Colors-bangla-cinema/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",DD BANGLA
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://1000logos.net/wp-content/uploads/2025/05/Zee-TV-Logo-768x432.png" group-title="INDIAN",ZEE TV HD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/161.ts
 
@@ -293,6 +296,10 @@ https://live.dinesh29.com.np/stream/jiotvplus/musicindia/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png/revision/latest?cb=20191130100054" group-title="EDUCATIONAL",DISCOVERY HD
 http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=277415&extension=ts&play_token=nrDDIKbzCX
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",DISCOVERY SCIENCE
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",DISCOVERY TURBO
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",ANIMAL PLANET SD
 
