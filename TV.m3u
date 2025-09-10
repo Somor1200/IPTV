@@ -22,13 +22,15 @@ http://starshare.fun:8080/live/keerthi5599/superdeal34/431.ts
 http://starshare.fun:8080/live/keerthi5599/superdeal34/427.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/9d/Channel_i_HD_logo_2021.png/revision/latest?cb=20231125042918" group-title="BANGLADESH",CHANNEL I HD
-http://starshare.fun:8080/live/keerthi5599/superdeal34/34665.ts
+#http://starshare.fun:8080/live/keerthi5599/superdeal34/34665.ts
+https://tvsen6.aynaott.com/channeli/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e8/Ekushey_Television_HD_logo_2024.png/revision/latest?cb=20241009111045" group-title="BANGLADESH",EKUSHEY TV HD
 https://tvsen6.aynascope.net/etv/index.m3u8?e=1756704939&u=844ab120-9c51-4053-ab18-bc85cfcfabb5&token=0add2772f7d6ebded629d4cee176c8f8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/08/NTV_logo_2003.png/revision/latest?cb=20210903091604" group-title="BANGLADESH",NTV HD
-http://starshare.fun:8080/live/keerthi5599/superdeal34/424.ts
+#http://starshare.fun:8080/live/keerthi5599/superdeal34/424.ts
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/9c/RTV_HD_2021.png/revision/latest?cb=20231226043939" group-title="BANGLADESH",RTV HD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/401.ts
@@ -37,7 +39,8 @@ http://starshare.fun:8080/live/keerthi5599/superdeal34/401.ts
 http://starshare.fun:8080/live/keerthi5599/superdeal34/390.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c0/Banglavision_HD.png/revision/latest?cb=20230512071222" group-title="BANGLADESH",BANGLA VISION HD
-http://starshare.fun:8080/live/keerthi5599/superdeal34/426.ts
+#http://starshare.fun:8080/live/keerthi5599/superdeal34/426.ts
+https://tvsen5.aynaott.com/banglavision/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/1/10/MyTV_HD_logo_2020.png/revision/latest?cb=20231214072547" group-title="BANGLADESH",MY TV HD
 #http://starshare.fun:8080/live/keerthi5599/superdeal34/398.ts
