@@ -247,6 +247,7 @@ https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldhd/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",STAR GOLD 2 HD
+https://live.dinesh29.com.np/stream/jiotvplus/stargold2hd/master.m3u8
 
 #EXTINF:-1 tvg-id="stargoldselecthd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldselecthd.png" group-title="INDIAN",STAR GOLD SELECT HD
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldselecthd/master.m3u8
