@@ -60,7 +60,8 @@ http://starshare.fun:8080/live/keerthi5599/superdeal34/423.ts
 https://tvsen6.aynaott.com/somoytv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/2/29/Channel_24_logo.png/revision/latest?cb=20231125044144" group-title="BANGLADESH",CHANNEL 24 HD
-http://starshare.fun:8080/live/keerthi5599/superdeal34/391.ts
+#http://starshare.fun:8080/live/keerthi5599/superdeal34/391.ts
+https://tvsen6.aynaott.com/channel24/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/82/Ekattor_TV_HD_2012.png/revision/latest?cb=20231121094023" group-title="BANGLADESH",EKATTOR TV HD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/428.ts
@@ -87,7 +88,8 @@ https://tvsen6.aynaott.com/channel9/index.m3u8
 https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/34/Asian_TV_HD_logo.png/revision/latest?cb=20210904044948" group-title="BANGLADESH",ASIAN TV HD
-http://starshare.fun:8080/live/keerthi5599/superdeal34/430.ts
+#http://starshare.fun:8080/live/keerthi5599/superdeal34/430.ts
+https://tvsen6.aynaott.com/asiantv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/1/11/SATV_HD.png/revision/latest?cb=20240109120302" group-title="BANGLADESH",SATV HD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/3814.ts
