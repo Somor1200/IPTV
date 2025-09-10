@@ -230,14 +230,23 @@ https://live.dinesh29.com.np/stream/jiotvplus/stargoldhd/master.m3u8
 #EXTINF:-1 tvg-id="stargoldselecthd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldselecthd.png" group-title="INDIAN",STAR GOLD SELECT HD
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldselecthd/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",&FLIX
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",&FLIX SD
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",&FLIX HD
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",&PICTURES
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",&PICTURES SD
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="INDIAN",& PICTURES HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="INDIAN",&PICTURES HD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/231.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",&PRIVE SD
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",&PRIVE HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",&TV SD
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",&TV HD
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/B4U_Network.png/revision/latest?cb=20240319195658" group-title="INDIAN",B4U MOVIES HD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/968.ts
