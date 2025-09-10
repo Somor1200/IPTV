@@ -81,7 +81,8 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 http://starshare.fun:8080/live/keerthi5599/superdeal34/434.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Gtvhd.png/revision/latest?cb=20230423174054" group-title="BANGLADESH",GTV HD
-http://starshare.fun:8080/live/keerthi5599/superdeal34/767.ts
+#http://starshare.fun:8080/live/keerthi5599/superdeal34/767.ts
+https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/34/Asian_TV_HD_logo.png/revision/latest?cb=20210904044948" group-title="BANGLADESH",ASIAN TV HD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/430.ts
