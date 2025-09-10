@@ -263,10 +263,6 @@ https://d14c63magvk61v.cloudfront.net/strm/channels/9xm/m4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",9X JALWA HD
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png/revision/latest?cb=20191130100054" group-title="EDUCATIONAL",DISCOVERY BANGLA HD
-http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=277415&extension=ts&play_token=nrDDIKbzCX
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Star-sports-select-1-hd.png/revision/latest?cb=20230128174313" group-title="SPORTS",STAR SPORTS SELECT 1 HD
 https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
 
@@ -288,6 +284,9 @@ https://tvsen6.aynascope.net/b4umusic/index.m3u8?e=1755858586&u=844ab120-9c51-40
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg/revision/latest?cb=20191221070908" group-title="MUSIC", MUSIC INDIA HD
 https://live.dinesh29.com.np/stream/jiotvplus/musicindia/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png/revision/latest?cb=20191130100054" group-title="EDUCATIONAL",DISCOVERY HD
+http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=277415&extension=ts&play_token=nrDDIKbzCX
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",ANIMAL PLANET SD
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635" group-title="EDUCATIONAL",ANIMAL PLANT HD
@@ -295,6 +294,8 @@ https://live.dinesh29.com.np/stream/jiotvplus/animalplanethdworld/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/1/1f/National_Geographic_HD_%282016-.n.v.%29.png/revision/latest?cb=20180304103328" group-title="EDUCATIONAL",NATIONAL GEOGRAPHIC HD
 http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=277422&extension=ts&play_token=oEN0X1gPSK
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BBC WORLD NEWS
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/SONY_YAY.png/revision/latest?cb=20221023221825" group-title="INDIAN",SONY YAY
 https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
