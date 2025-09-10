@@ -119,7 +119,8 @@ http://starshare.fun:8080/live/keerthi5599/superdeal34/3802.ts
 https://tvsen6.aynaott.com/anandatv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/f6/Global_Television_HD_logo.png/revision/latest?cb=20231121084539" group-title="BANGLADESH",GLOBAL TV HD
-http://starshare.fun:8080/live/keerthi5599/superdeal34/4231.ts
+#http://starshare.fun:8080/live/keerthi5599/superdeal34/4231.ts
+https://tvsen6.aynaott.com/globaltvhd/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/2/20/Green_TV_Logo.png/revision/latest?cb=20230525084236" group-title="BANGLADESH",GREEN TV HD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/257227.ts
