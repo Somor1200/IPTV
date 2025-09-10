@@ -307,11 +307,6 @@ https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/Star-sports-select-2-hd.png/revision/latest?cb=20230128175317" group-title="SPORTS",STAR SPORTS SELECT 2 HD
 https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd2/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="SPORTS",A SPORTS HD
-https://tvsen7.aynaott.com/asports-bkp/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/ten-ckt-logo.png" group-title="SPORTS",TEN CRICKET HD
-https://d9.merichunidya.com:1686/hls/asportshd.m3u8?md5=cUvINGZcikIBW7SfwA75BA&expires=1756051067
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Sangeet_Bangla_2025.png/revision/latest?cb=20250610095819" group-title="MUSIC",SANGEET BANGLA HD
 https://cdn-4.pishow.tv/live/1143/master.m3u8
@@ -393,6 +388,12 @@ https://tataplay.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten5-HD-New-Logo.png" group-title="SPORTS",SONY SPORTS TEN 5 HD
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="SPORTS",A SPORTS HD
+https://tvsen7.aynaott.com/asports-bkp/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/ten-ckt-logo.png" group-title="SPORTS",TEN CRICKET HD
+https://d9.merichunidya.com:1686/hls/asportshd.m3u8?md5=cUvINGZcikIBW7SfwA75BA&expires=1756051067
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",EURO SPORTS HD
 
