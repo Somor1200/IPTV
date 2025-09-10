@@ -20,7 +20,8 @@ http://starshare.fun:8080/live/keerthi5599/superdeal34/413.ts
 https://tvsen5.aynaott.com/atnbangla/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4d/ATN_News_HD.png/revision/latest?cb=20240806225614" group-title="BANGLADESH",ATN NEWS HD
-http://starshare.fun:8080/live/keerthi5599/superdeal34/427.ts
+#http://starshare.fun:8080/live/keerthi5599/superdeal34/427.ts
+https://tvsen6.aynaott.com/atnnews/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/9d/Channel_i_HD_logo_2021.png/revision/latest?cb=20231125042918" group-title="BANGLADESH",CHANNEL I HD
 #http://starshare.fun:8080/live/keerthi5599/superdeal34/34665.ts
