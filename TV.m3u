@@ -273,6 +273,9 @@ https://d14c63magvk61v.cloudfront.net/strm/channels/9xm/m4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",9X JALWA HD
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MAA MUSIC
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Star-sports-select-1-hd.png/revision/latest?cb=20230128174313" group-title="SPORTS",STAR SPORTS SELECT 1 HD
 https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
 
@@ -302,6 +305,8 @@ http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=277415&extensio
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",DISCOVERY TURBO
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",ANIMAL PLANET SD
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",HISTORY TV18 HD
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635" group-title="EDUCATIONAL",ANIMAL PLANT HD
 https://live.dinesh29.com.np/stream/jiotvplus/animalplanethdworld/master.m3u8
