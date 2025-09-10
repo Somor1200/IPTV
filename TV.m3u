@@ -155,15 +155,15 @@ https://tvsen5.aynaott.com/durontotv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Nick_Splat_2023.png/revision/latest?cb=20240226050529" group-title="KID'S",NICK
 https://live.dinesh29.com.np/stream/jiotvplus/nickhindi/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png/revision/latest?cb=20231121101305" group-title="SPORTS",TSPORTS HD
-#http://starshare.fun:8080/live/keerthi5599/superdeal34/130714.ts
-https://tvsen5.aynaott.com/tsports/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="KID'S",CARTOON NETWORK
 https://
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="KID'S",SONIC
 https://
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png/revision/latest?cb=20231121101305" group-title="SPORTS",TSPORTS HD
+#http://starshare.fun:8080/live/keerthi5599/superdeal34/130714.ts
+https://tvsen5.aynaott.com/tsports/index.m3u8
 
 #EXTINF:-1 tvg-id="404001" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg/2000px-%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg.png" group-title="INDIAN BANGLA",ZEE BANGLA SD
 http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=277402&extension=ts&play_token=8Rvq4Bwhn7
