@@ -288,6 +288,8 @@ https://tvsen6.aynascope.net/b4umusic/index.m3u8?e=1755858586&u=844ab120-9c51-40
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg/revision/latest?cb=20191221070908" group-title="MUSIC", MUSIC INDIA HD
 https://live.dinesh29.com.np/stream/jiotvplus/musicindia/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",ANIMAL PLANET SD
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635" group-title="EDUCATIONAL",ANIMAL PLANT HD
 https://live.dinesh29.com.np/stream/jiotvplus/animalplanethdworld/master.m3u8
 
