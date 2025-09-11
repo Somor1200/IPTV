@@ -240,6 +240,9 @@ https://live.dinesh29.com.np/stream/jiotvplus/colorshd/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/colorscineplexbollywood/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",COLORS INFINITY
+https://live.dinesh29.com.np/stream/jiotvplus/colorsinfinity/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",COLORS INFINITY HD
 https://live.dinesh29.com.np/stream/jiotvplus/colorsinfinityhd/master.m3u8
 
 #EXTINF:-1 tvg-id="412170" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Sony_MAX_SD.png/revision/latest?cb=20221023220126" group-title="INDIAN",SONY MAX SD
