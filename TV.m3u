@@ -245,7 +245,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/colorsinfinity/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",COLORS INFINITY HD
 https://live.dinesh29.com.np/stream/jiotvplus/colorsinfinityhd/master.m3u8
 
-#EXTINF:-1 tvg-id="412170" tvg-logo="" group-title="INDIAN",SONY MAX
+#EXTINF:-1 tvg-id="412170" tvg-logo="https://i.ibb.co/BV8vbTgh/SONY-MAX.png" group-title="INDIAN",SONY MAX
 https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
 
 #EXTINF:-1 tvg-id="412170" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" group-title="INDIAN",SONY MAX HD
