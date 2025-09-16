@@ -1,19 +1,19 @@
 #EXTM3U url-tvg=""
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",BTV HD
+#EXTINF:-1 tvg-id="https://i.ibb.co/Ld0wZ9dT/BTV-HD.png" tvg-logo="" group-title="BANGLADESH",BTV HD
 #http://starshare.fun:8080/live/keerthi5599/superdeal34/998.ts
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",BTV CHITTAGONG HD
+#EXTINF:-1 tvg-id="https://i.ibb.co/r24FSCMy/CTV-HD.png" tvg-logo="" group-title="BANGLADESH",BTV CHITTAGONG HD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/3818.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",BTV NEWS HD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/998.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",BTV WORLD HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3mBZbgDL/BTV-WORLD-HD.png" group-title="BANGLADESH",BTV WORLD HD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/998.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",SANGSAD BANGLADESH
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xKw5WNft/SANGSAD-BANGLADESH.png" group-title="BANGLADESH",SANGSAD BANGLADESH
 http://starshare.fun:8080/live/keerthi5599/superdeal34/413.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",ATN BANGLA HD
