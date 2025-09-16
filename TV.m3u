@@ -302,7 +302,10 @@ https://live.dinesh29.com.np/stream/jiotvplus/suntvhd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/B4U_Network.png/revision/latest?cb=20240319195658" group-title="INDIAN",B4U MOVIES HD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/968.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-SAB-HD-New-Logo.png" group-title="INDIAN",SONY SAB HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sdBpzZCx/SONY-SAB.png" group-title="INDIAN",SONY SAB
+https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zW7MbGg6/SONY-SAB-HD.png" group-title="INDIAN",SONY SAB HD
 https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zee_Cinema_2025.svg/1600px-Zee_Cinema_2025.svg.png?20250608063155" group-title="INDIAN",ZEE CINEMA HD
