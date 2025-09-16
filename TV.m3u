@@ -186,7 +186,7 @@ https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 #https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN BANGLA",JALSHA MOVIES SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/DPxzrBCS/JALSHA-MOVIES.png" group-title="INDIAN BANGLA",JALSHA MOVIES
 http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=277425&extension=ts&play_token=jdvXyryY9B
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20240320100806" group-title="INDIAN BANGLA",JALSHA MOVIES HD
