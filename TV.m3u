@@ -59,7 +59,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/89/Jamuna_TV.png/revision/latest?cb=20231125051005" group-title="BANGLADESH",JAMUNA TV HD
-http://starshare.fun:8080/live/keerthi5599/superdeal34/421.ts
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a9/News24_HD_logo_2021.png/revision/latest?cb=20231125045717" group-title="BANGLADESH",NEWS24 HD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/3810.ts
