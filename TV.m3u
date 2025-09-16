@@ -28,7 +28,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e8/Ekushey_Television_HD_logo_2024.png/revision/latest?cb=20241009111045" group-title="BANGLADESH",EKUSHEY TV HD
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/08/NTV_logo_2003.png/revision/latest?cb=20210903091604" group-title="BANGLADESH",NTV HD
-http://starshare.fun:8080/live/keerthi5599/superdeal34/424.ts
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/9c/RTV_HD_2021.png/revision/latest?cb=20231226043939" group-title="BANGLADESH",RTV HD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/401.ts
