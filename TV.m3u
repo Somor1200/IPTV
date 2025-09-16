@@ -384,10 +384,10 @@ https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 #EXTINF:-1 tvg-chno="12" tvg-id="" tvg-logo="https://i.ibb.co/2YNY8jdf/Untitled-459-x-459-px.png" group-title="EDUCATIONAL",SONY BBC EARTH HD
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",SONY SPORTS TEN 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZpWh8t0n/SONY-SPORTS-TEN-1.png" group-title="SPORTS",SONY SPORTS TEN 1
 https://tataplay.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",SONY SPORTS TEN 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/5V2pzKd/SONY-SPORTS-TEN-1-HD.png" group-title="SPORTS",SONY SPORTS TEN 1 HD
 https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Xfdwv1XW/SONY-SPORTS-TEN-2.png" group-title="SPORTS",SONY SPORTS TEN 2
@@ -405,13 +405,13 @@ https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/DfBJqz2V/SONY-SPORTS-TEN-4.png" group-title="SPORTS",SONY SPORTS TEN 4
 https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",SONY SPORTS TEN 4 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ymrrHNYc/SONY-SPORTS-TEN-4-HD.png" group-title="SPORTS",SONY SPORTS TEN 4 HD
 https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",SONY SPORTS TEN 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/0Rs7k0wc/SONY-SPORTS-TEN-5.png" group-title="SPORTS",SONY SPORTS TEN 5
 https://tataplay.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",SONY SPORTS TEN 5 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mVcLXFfm/SONY-SPORTS-TEN-5-HD.png" group-title="SPORTS",SONY SPORTS TEN 5 HD
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="SPORTS",A SPORTS HD
