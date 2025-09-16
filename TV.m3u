@@ -7,7 +7,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-id="https://i.ibb.co/r24FSCMy/CTV-HD.png" tvg-logo="" group-title="BANGLADESH",BTV CHITTAGONG HD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/3818.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",BTV NEWS HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/KcTM5b6v/BTV-NEWS-HD.png" group-title="BANGLADESH",BTV NEWS HD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/998.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3mBZbgDL/BTV-WORLD-HD.png" group-title="BANGLADESH",BTV WORLD HD
@@ -20,7 +20,7 @@ http://starshare.fun:8080/live/keerthi5599/superdeal34/413.ts
 #http://starshare.fun:8080/live/keerthi5599/superdeal34/431.ts
 https://tvsen5.aynaott.com/atnbangla/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4d/ATN_News_HD.png/revision/latest?cb=20240806225614" group-title="BANGLADESH",ATN NEWS HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/Dg7PZ2hr/ATN-NEWS-HD.png" group-title="BANGLADESH",ATN NEWS HD
 #http://starshare.fun:8080/live/keerthi5599/superdeal34/427.ts
 https://tvsen6.aynaott.com/atnnews/index.m3u8
 
