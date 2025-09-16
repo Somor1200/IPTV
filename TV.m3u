@@ -1,16 +1,16 @@
 #EXTM3U url-tvg=""
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",BTV HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",BTV
 #http://starshare.fun:8080/live/keerthi5599/superdeal34/998.ts
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",BTV CHITTAGONG
 http://starshare.fun:8080/live/keerthi5599/superdeal34/3818.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",BTV NEWS HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",BTV NEWS
 http://starshare.fun:8080/live/keerthi5599/superdeal34/998.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",BTV WORLD HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",BTV WORLD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/998.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",SANGSAD BANGLADESH
