@@ -45,7 +45,7 @@ https://mytvbangla.com/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/1JMhnC3G/MOHONA-TV-HD.png" group-title="BANGLADESH",MOHONA TV HD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/397.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",INDEPENDENT TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/rWKWyNc/INDEPENDENT-HD.png" group-title="BANGLADESH",INDEPENDENT TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/fYCbByKT/SOMOY-TV-HD.png" group-title="BANGLADESH",SOMOY TV HD
@@ -57,10 +57,10 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/HkwQ9v4/EKATTOR-TV-HD.png" group-title="BANGLADESH",EKATTOR TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",JAMUNA TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/gbJBXL6V/JAMUNA-TV.png" group-title="BANGLADESH",JAMUNA TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",NEWS24 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/9jF2B20/NEWS24-HD.png" group-title="BANGLADESH",NEWS24 HD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/3810.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/ndyxMmR/DBC-NEWS-HD.png" group-title="BANGLADESH",DBC NEWS HD
@@ -70,7 +70,7 @@ http://starshare.fun:8080/live/keerthi5599/superdeal34/420.ts
 #https://tvsen5.aynaott.com/maasrangatv/index.m3u8
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",CHANNEL 9 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/Ndc9W0MB/CHANNEL-9-HD.png" group-title="BANGLADESH",CHANNEL 9 HD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/434.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/gFP39KRD/GTV-HD.png" group-title="BANGLADESH",GTV HD
@@ -130,13 +130,13 @@ https://live.dinesh29.com.np/stream/jiotvplus/cartoonnetworkhindi/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="KID'S",SONIC
 https://live.dinesh29.com.np/stream/jiotvplus/sonicbangla/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",TSPORTS HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/6cwxpDXD/T-SPORTS-HD.png" group-title="SPORTS",TSPORTS HD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/130714.ts
 
-#EXTINF:-1 tvg-id="404001" tvg-logo="" group-title="INDIAN BANGLA",ZEE BANGLA SD
+#EXTINF:-1 tvg-id="404001" tvg-logo="https://i.ibb.co.com/fdWwTTrt/ZEE-BANGLA.png" group-title="INDIAN BANGLA",ZEE BANGLA SD
 http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=277402&extension=ts&play_token=8Rvq4Bwhn7
 
-#EXTINF:-1 tvg-id="404001" tvg-logo="" group-title="INDIAN BANGLA",ZEE BANGLA HD
+#EXTINF:-1 tvg-id="404001" tvg-logo="https://i.ibb.co.com/9HM31yqc/ZEE-BANGLA-HD.png" group-title="INDIAN BANGLA",ZEE BANGLA HD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/435.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/84GB2CpG/STAR-JALSHA.png" group-title="INDIAN BANGLA",STAR JALSHA
