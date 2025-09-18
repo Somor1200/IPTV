@@ -239,9 +239,6 @@ https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselect/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starmoviesselecthd.png" group-title="INDIAN",STAR MOVIES SELECT HD
 https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",STAR PRAVAH HD
-https://live.dinesh29.com.np/stream/jiotvplus/starpravahhd/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",&FLIX SD
 https://
 
@@ -291,7 +288,7 @@ https://xfireflix.fun/stream/da617cc0-9209-434c-9156-0f9387182a3f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSIC",MAA MUSIC
 https://live.dinesh29.com.np/stream/jiotvplus/maamusic/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSIC",SUN MUSIC HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/sunmusichd.png" group-title="MUSIC",SUN MUSIC HD
 https://live.dinesh29.com.np/stream/jiotvplus/sunmusichd/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSIC",ZING
