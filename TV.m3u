@@ -285,7 +285,7 @@ https://d14c63magvk61v.cloudfront.net/strm/channels/9xm/m4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSIC",9X JALWA HD
 https://xfireflix.fun/stream/da617cc0-9209-434c-9156-0f9387182a3f/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSIC",MAA MUSIC
+#EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/maamusic.png" group-title="MUSIC",MAA MUSIC
 https://live.dinesh29.com.np/stream/jiotvplus/maamusic/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/sunmusichd.png" group-title="MUSIC",SUN MUSIC HD
