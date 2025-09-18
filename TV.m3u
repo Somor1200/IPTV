@@ -318,7 +318,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/discoveryturbo/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/animalplanet.png" group-title="EDUCATIONAL",ANIMAL PLANET
 https://live.dinesh29.com.np/stream/jiotvplus/animalplanethindi/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EDUCATIONAL",HISTORY TV18 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/historytv18.png" group-title="EDUCATIONAL",HISTORY TV18 HD
 https://live.dinesh29.com.np/stream/jiotvplus/historytv18hd/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635" group-title="EDUCATIONAL",ANIMAL PLANT HD
