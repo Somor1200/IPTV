@@ -233,7 +233,10 @@ https://live.dinesh29.com.np/stream/jiotvplus/stargoldselecthd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiXPFwPzl8ezuGwpXQrVhgU4yqBliYEYAtU4-77ss4DpDQoSoYle7LoSHYatYl39a2Rbe77m7C7xoNTP7FfcEDQ1iELuf8Y8bYKRwJTt0AsgQu3X5JSbmDo-OLov6pLHV3ZmgCJbOoYfHwTxQm0hfmN24BwAnZeUkpRzIEmQ9SaUehfHxYE9BSBayHhV0/s1600/star-movies-hd_copy_900x900.png" group-title="INDIAN",STAR MOVIES HD
 https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",STAR MOVIES SELECT HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starmoviesselect.png" group-title="INDIAN",STAR MOVIES SELECT
+https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselect/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starmoviesselecthd.png" group-title="INDIAN",STAR MOVIES SELECT HD
 https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",STAR PRAVAH HD
