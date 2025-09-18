@@ -206,7 +206,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/starbharathd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="INDIAN",COLORS HD
 https://live.dinesh29.com.np/stream/jiotvplus/colorshd/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",COLORS CINEPLEX
+#EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorscineplexbollywood.png" group-title="INDIAN",COLORS CINEPLEX
 https://live.dinesh29.com.np/stream/jiotvplus/colorscineplexbollywood/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorsinfinity.png" group-title="INDIAN",COLORS INFINITY
