@@ -36,26 +36,25 @@ http://starshare.fun:8080/live/keerthi5599/superdeal34/401.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/bRWPFmnc/BOISHAKHI-TV-HD.png" group-title="BANGLADESH",BOISHAKHI TV HD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/390.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",BANGLA VISION HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/q31ZdLqP/BANGLAVISION-HD.png" group-title="BANGLADESH",BANGLA VISION HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",MY TV HD
-#http://starshare.fun:8080/live/keerthi5599/superdeal34/398.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/VWjHNn5Y/MYTV-HD.png" group-title="BANGLADESH",MY TV HD
 https://mytvbangla.com/0.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",MOHONA TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/1JMhnC3G/MOHONA-TV-HD.png" group-title="BANGLADESH",MOHONA TV HD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/397.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",INDEPENDENT TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",SOMOY TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/fYCbByKT/SOMOY-TV-HD.png" group-title="BANGLADESH",SOMOY TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",CHANNEL 24 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/gMzdFFxC/CHANNEL-24-HD.png" group-title="BANGLADESH",CHANNEL 24 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",EKATTOR TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/HkwQ9v4/EKATTOR-TV-HD.png" group-title="BANGLADESH",EKATTOR TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",JAMUNA TV HD
@@ -64,7 +63,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",NEWS24 HD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/3810.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",DBC NEWS HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/ndyxMmR/DBC-NEWS-HD.png" group-title="BANGLADESH",DBC NEWS HD
 http://starshare.fun:8080/live/keerthi5599/superdeal34/420.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BANGLADESH",MAASRANGA HD
