@@ -309,10 +309,10 @@ https://live.dinesh29.com.np/stream/jiotvplus/musicindia/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png/revision/latest?cb=20191130100054" group-title="EDUCATIONAL",DISCOVERY HD
 http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=277415&extension=ts&play_token=nrDDIKbzCX
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EDUCATIONAL",DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/discoveryscience.png" group-title="EDUCATIONAL",DISCOVERY SCIENCE
 https://live.dinesh29.com.np/stream/jiotvplus/discoveryscience/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EDUCATIONAL",DISCOVERY TURBO
+#EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/discoveryturbo.png" group-title="EDUCATIONAL",DISCOVERY TURBO
 https://live.dinesh29.com.np/stream/jiotvplus/discoveryturbo/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EDUCATIONAL",ANIMAL PLANET SD
