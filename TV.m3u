@@ -133,23 +133,22 @@ https://live.dinesh29.com.np/stream/jiotvplus/sonicbangla/master.m3u8
 http://starshare.fun:8080/live/keerthi5599/superdeal34/130714.ts
 
 #EXTINF:-1 tvg-id="404001" tvg-logo="https://i.ibb.co.com/fdWwTTrt/ZEE-BANGLA.png" group-title="INDIAN BANGLA",ZEE BANGLA
-http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=277402&extension=ts&play_token=8Rvq4Bwhn7
+http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=277402&extension=m3u8&play_token=8Rvq4Bwhn7
 
 #EXTINF:-1 tvg-id="404001" tvg-logo="https://i.ibb.co.com/9HM31yqc/ZEE-BANGLA-HD.png" group-title="INDIAN BANGLA",ZEE BANGLA HD
-http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=277402&extension=ts&play_token=PRUuKdHX1Y
+http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=277402&extension=m3u8&play_token=PRUuKdHX1Y
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/84GB2CpG/STAR-JALSHA.png" group-title="INDIAN BANGLA",STAR JALSHA
-http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=277424&extension=ts&play_token=AQaUdSko1H
+http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=277424&extension=m3u8&play_token=AQaUdSko1H
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4nSTfQCM/STAR-JALSHA-HD.png" group-title="INDIAN BANGLA",STAR JALSHA HD
 https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RT6QNRDm/SONY-AATH.png" group-title="INDIAN BANGLA",SONY AATH
-http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=277390&extension=ts&play_token=NEEAY64YPz
+http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=277390&extension=m3u8&play_token=NEEAY64YPz
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RT6QNRDm/SONY-AATH.png" group-title="INDIAN BANGLA",SONY AATH HD
-#https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
-https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/DPxzrBCS/JALSHA-MOVIES.png" group-title="INDIAN BANGLA",JALSHA MOVIES
 http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=277425&extension=ts&play_token=jdvXyryY9B
