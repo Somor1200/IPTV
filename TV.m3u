@@ -353,6 +353,14 @@ https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 #EXTINF:-1 tvg-chno="12" tvg-id="" tvg-logo="https://i.ibb.co/2YNY8jdf/Untitled-459-x-459-px.png" group-title="EDUCATIONAL",SONY BBC EARTH HD
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",WILLOW HD
+http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
+#https://xfireflix.fun/stream/abfabaee-3898-4279-8645-3da5b0232867/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wrSsDHVX/ASTRO-CRICKET.png" group-title="SPORTS", ASTRO CRICKET
+http://dream4k.co:8080/live/zv9uxorwdgh/gqpb3w3rhb/303630.ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZpWh8t0n/SONY-SPORTS-TEN-1.png" group-title="SPORTS",SONY SPORTS TEN 1
 https://tataplay.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8
 
@@ -395,13 +403,6 @@ http://185.189.225.157/EuroSport1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",EURO SPORTS 1 HD
 http://185.189.225.157/EuroSport2/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",WILLOW HD
-http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
-#https://xfireflix.fun/stream/abfabaee-3898-4279-8645-3da5b0232867/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wrSsDHVX/ASTRO-CRICKET.png" group-title="SPORTS", ASTRO CRICKET
-http://dream4k.co:8080/live/zv9uxorwdgh/gqpb3w3rhb/303630.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",STAR SPORTS 1
 https://live.dinesh29.com.np/stream/jiotvplus/starsports1tamil/master.m3u8
