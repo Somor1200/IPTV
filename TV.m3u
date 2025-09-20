@@ -145,7 +145,7 @@ http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=277424&extensio
 https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RT6QNRDm/SONY-AATH.png" group-title="INDIAN BANGLA",SONY AATH
-https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
+http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=277390&extension=ts&play_token=NEEAY64YPz
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RT6QNRDm/SONY-AATH.png" group-title="INDIAN BANGLA",SONY AATH HD
 #https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
