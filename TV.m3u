@@ -216,7 +216,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/colorsinfinityhd/master.m3u8
 https://dish.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
 
 #EXTINF:-1 tvg-id="412170" tvg-logo="https://i.ibb.co/PvZ3RxWc/SONY-MAX-HD.png" group-title="INDIAN",SONY MAX HD
-https://dish.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
+http://iptvpro.stream:80/play/live.php?mac=00:1A:79:78:81:12&stream=280759&extension=m3u8&play_token=Cq3RPqI8cO
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Star_Gold_HD_2020.svg/revision/latest/scale-to-width-down/250?cb=20211215232828" group-title="INDIAN",STAR GOLD HD
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldhd/master.m3u8
