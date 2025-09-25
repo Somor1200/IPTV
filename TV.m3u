@@ -254,11 +254,11 @@ https://
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",&PRIVE HD
 https://
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",&TV SD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",&TV
 https://
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",&TV HD
-https://
+http://iptvpro.stream:80/play/live.php?mac=00:1A:79:78:81:12&stream=280745&extension=ts&play_token=A8kgJnIgsS
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/suntvhd.png" group-title="INDIAN",SUN TV HD
 https://live.dinesh29.com.np/stream/jiotvplus/suntvhd/master.m3u8
