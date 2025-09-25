@@ -242,13 +242,13 @@ https://
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",&FLIX HD
 http://iptvpro.stream:80/play/live.php?mac=00:1A:79:78:81:12&stream=155990&extension=m3u8&play_token=w3TBgO4nIw
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",&PICTURES SD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",&PICTURES
 http://iptvpro.stream:80/play/live.php?mac=00:1A:79:78:81:12&stream=280744&extension=m3u8&play_token=kby7anSQIK
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="INDIAN",&PICTURES HD
 http://iptvpro.stream:80/play/live.php?mac=00:1A:79:78:81:12&stream=280744&extension=m3u8&play_token=kby7anSQIK
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",&PRIVE SD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",&PRIVE
 http://iptvpro.stream:80/play/live.php?mac=00:1A:79:78:81:12&stream=155746&extension=m3u8&play_token=WozO5Fu2ey
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN",&PRIVE HD
