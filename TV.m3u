@@ -25,7 +25,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtLSNbmW/EKUSHEY-TELEVISION-HD.png" group-title="BANGLADESH",EKUSHEY TV HD
-http://tv.bdiptv.store:80/live/restreauuX58y/refstream88/56.m3u8
+https://tvsen6.aynascope.net/etv/index.m3u8?e=1758930814&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=039e9b6e7395255cf43447c1ae98debb
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/rGFdn8DF/NTV-HD.png" group-title="BANGLADESH",NTV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
