@@ -298,7 +298,7 @@ https://cdn-4.pishow.tv/live/1143/master.m3u8
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg/revision/latest?cb=20191221070908" group-title="MUSIC", MUSIC INDIA HD
-https://live.dinesh29.com.np/stream/jiotvplus/musicindia/master.m3u8
+https://cdn-2.pishow.tv/live/226/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png/revision/latest?cb=20191130100054" group-title="EDUCATIONAL",DISCOVERY HD
 http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=277415&extension=ts&play_token=nrDDIKbzCX
