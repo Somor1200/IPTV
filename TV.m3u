@@ -43,7 +43,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 https://mytvbangla.com/0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/1JMhnC3G/MOHONA-TV-HD.png" group-title="BANGLADESH",MOHONA TV HD
-https://tvsen6.aynascope.net/mohonatv/index.m3u8?e=1758930928&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=585ff9bce8570775126a03eb29300974
+http://103.89.248.30:8082/MOHONA-TV/index.m3u8?token=9916539590cacb78112f501c337ab2068d739c48-914338da23cfff3761d4f9207b47bd3a-1759058175-1759047375&remote=no_check_ip
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/rWKWyNc/INDEPENDENT-HD.png" group-title="BANGLADESH",INDEPENDENT TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
