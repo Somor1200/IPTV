@@ -36,7 +36,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 https://tvsen5.aynascope.net/RtvHD/index.m3u8?e=1758931025&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=0aaadbc07495e0e94b255689856b9f06
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/bRWPFmnc/BOISHAKHI-TV-HD.png" group-title="BANGLADESH",BOISHAKHI TV
-http://tv.bdiptv.store:80/live/restreauuX58y/refstream88/60.m3u8
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/q31ZdLqP/BANGLAVISION-HD.png" group-title="BANGLADESH",BANGLA VISION
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
