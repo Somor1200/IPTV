@@ -1,120 +1,120 @@
 #EXTM3U url-tvg=""
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Ld0wZ9dT/BTV-HD.png" group-title="BANGLADESH",BTV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Ld0wZ9dT/BTV-HD.png" group-title="BANGLADESH",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/r24FSCMy/CTV-HD.png" group-title="BANGLADESH",BTV CHITTAGONG HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/r24FSCMy/CTV-HD.png" group-title="BANGLADESH",BTV CHITTAGONG
 https://tvsen6.aynascope.net/btvctg/index.m3u8?e=1758930449&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=629351ab906307e3797885a95c300873
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/KcTM5b6v/BTV-NEWS-HD.png" group-title="BANGLADESH",BTV NEWS HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/KcTM5b6v/BTV-NEWS-HD.png" group-title="BANGLADESH",BTV NEWS
 https://
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3mBZbgDL/BTV-WORLD-HD.png" group-title="BANGLADESH",BTV WORLD HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3mBZbgDL/BTV-WORLD-HD.png" group-title="BANGLADESH",BTV WORLD
 https://tvsen6.aynascope.net/btv_world/index.m3u8?e=1758930556&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=3823d504df84a152fc8092be1f242b16
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xKw5WNft/SANGSAD-BANGLADESH.png" group-title="BANGLADESH",SANGSAD BANGLADESH
 http://
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/9H65SwCG/ATN-BANGLA-HD.png" group-title="BANGLADESH",ATN BANGLA HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/9H65SwCG/ATN-BANGLA-HD.png" group-title="BANGLADESH",ATN BANGLA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/Dg7PZ2hr/ATN-NEWS-HD.png" group-title="BANGLADESH",ATN NEWS HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/Dg7PZ2hr/ATN-NEWS-HD.png" group-title="BANGLADESH",ATN NEWS
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/LzVX7DTt/CHANNEL-I-HD.png" group-title="BANGLADESH",CHANNEL I HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/LzVX7DTt/CHANNEL-I-HD.png" group-title="BANGLADESH",CHANNEL I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtLSNbmW/EKUSHEY-TELEVISION-HD.png" group-title="BANGLADESH",EKUSHEY TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtLSNbmW/EKUSHEY-TELEVISION-HD.png" group-title="BANGLADESH",EKUSHEY TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/rGFdn8DF/NTV-HD.png" group-title="BANGLADESH",NTV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/rGFdn8DF/NTV-HD.png" group-title="BANGLADESH",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/rRPcs9QG/RTV-HD.png" group-title="BANGLADESH",RTV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/rRPcs9QG/RTV-HD.png" group-title="BANGLADESH",RTV
 https://tvsen5.aynascope.net/RtvHD/index.m3u8?e=1758931025&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=0aaadbc07495e0e94b255689856b9f06
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/bRWPFmnc/BOISHAKHI-TV-HD.png" group-title="BANGLADESH",BOISHAKHI TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/bRWPFmnc/BOISHAKHI-TV-HD.png" group-title="BANGLADESH",BOISHAKHI TV
 http://tv.bdiptv.store:80/live/restreauuX58y/refstream88/60.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/q31ZdLqP/BANGLAVISION-HD.png" group-title="BANGLADESH",BANGLA VISION HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/q31ZdLqP/BANGLAVISION-HD.png" group-title="BANGLADESH",BANGLA VISION
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/VWjHNn5Y/MYTV-HD.png" group-title="BANGLADESH",MY TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/VWjHNn5Y/MYTV-HD.png" group-title="BANGLADESH",MY TV
 https://mytvbangla.com/0.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/1JMhnC3G/MOHONA-TV-HD.png" group-title="BANGLADESH",MOHONA TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/1JMhnC3G/MOHONA-TV-HD.png" group-title="BANGLADESH",MOHONA TV
 http://103.89.248.30:8082/MOHONA-TV/index.m3u8?token=9916539590cacb78112f501c337ab2068d739c48-914338da23cfff3761d4f9207b47bd3a-1759058175-1759047375&remote=no_check_ip
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/rWKWyNc/INDEPENDENT-HD.png" group-title="BANGLADESH",INDEPENDENT TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/rWKWyNc/INDEPENDENT-HD.png" group-title="BANGLADESH",INDEPENDENT TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/fYCbByKT/SOMOY-TV-HD.png" group-title="BANGLADESH",SOMOY TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/fYCbByKT/SOMOY-TV-HD.png" group-title="BANGLADESH",SOMOY TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/gMzdFFxC/CHANNEL-24-HD.png" group-title="BANGLADESH",CHANNEL 24 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/gMzdFFxC/CHANNEL-24-HD.png" group-title="BANGLADESH",CHANNEL 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/HkwQ9v4/EKATTOR-TV-HD.png" group-title="BANGLADESH",EKATTOR TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/HkwQ9v4/EKATTOR-TV-HD.png" group-title="BANGLADESH",EKATTOR TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/gbJBXL6V/JAMUNA-TV.png" group-title="BANGLADESH",JAMUNA TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/gbJBXL6V/JAMUNA-TV.png" group-title="BANGLADESH",JAMUNA TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/9jF2B20/NEWS24-HD.png" group-title="BANGLADESH",NEWS24 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/9jF2B20/NEWS24-HD.png" group-title="BANGLADESH",NEWS24
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/ndyxMmR/DBC-NEWS-HD.png" group-title="BANGLADESH",DBC NEWS HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/ndyxMmR/DBC-NEWS-HD.png" group-title="BANGLADESH",DBC NEWS
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/3XM3HcH/MAASRANGA-TV-HD.png" group-title="BANGLADESH",MAASRANGA HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/3XM3HcH/MAASRANGA-TV-HD.png" group-title="BANGLADESH",MAASRANGA
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/Ndc9W0MB/CHANNEL-9-HD.png" group-title="BANGLADESH",CHANNEL 9 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/Ndc9W0MB/CHANNEL-9-HD.png" group-title="BANGLADESH",CHANNEL 9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/gFP39KRD/GTV-HD.png" group-title="BANGLADESH",GTV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/gFP39KRD/GTV-HD.png" group-title="BANGLADESH",GTV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/b5xSHH7R/ASIAN-TV-HD.png" group-title="BANGLADESH",ASIAN TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/b5xSHH7R/ASIAN-TV-HD.png" group-title="BANGLADESH",ASIAN TV
 http://tv.bdiptv.store:80/live/restreauuX58y/refstream88/146.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/hJfN77YC/SATV-HD.png" group-title="BANGLADESH",SATV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/hJfN77YC/SATV-HD.png" group-title="BANGLADESH",SATV
 http://starshare.fun:8080/live/keerthi5599/superdeal34/3814.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/N6Npbb2h/BIJOY-TV-HD.png" group-title="BANGLADESH",BIJOY TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/N6Npbb2h/BIJOY-TV-HD.png" group-title="BANGLADESH",BIJOY TV
 http://starshare.fun:8080/live/keerthi5599/superdeal34/408.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/TqPTwjRj/DEEPTO-TV-HD.png" group-title="BANGLADESH",DEEPTO TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/TqPTwjRj/DEEPTO-TV-HD.png" group-title="BANGLADESH",DEEPTO TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/w2ssfRW/BANGLA-TV-HD.png" group-title="BANGLADESH",BANGLA TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/w2ssfRW/BANGLA-TV-HD.png" group-title="BANGLADESH",BANGLA TV
 http://starshare.fun:8080/live/keerthi5599/superdeal34/3803.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/Gf69TnpK/NAGORIK-TV.png" group-title="BANGLADESH",NAGORIK HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/Gf69TnpK/NAGORIK-TV.png" group-title="BANGLADESH",NAGORIK
 http://starshare.fun:8080/live/keerthi5599/superdeal34/3802.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/nNwGCvJH/ANANDA-TV.png" group-title="BANGLADESH",ANANDA TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/nNwGCvJH/ANANDA-TV.png" group-title="BANGLADESH",ANANDA TV
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/whWmLwzV/GLOBAL-TELEVISION-HD.png" group-title="BANGLADESH",GLOBAL TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/whWmLwzV/GLOBAL-TELEVISION-HD.png" group-title="BANGLADESH",GLOBAL TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/PvzdGBf8/GREEN-TV.png" group-title="BANGLADESH",GREEN TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/PvzdGBf8/GREEN-TV.png" group-title="BANGLADESH",GREEN TV
 http://starshare.fun:8080/live/keerthi5599/superdeal34/257227.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/gLF4gzFy/CHANNEL-S.png" group-title="BANGLADESH",CHANNEL S HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/gLF4gzFy/CHANNEL-S.png" group-title="BANGLADESH",CHANNEL S
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/C3QKDwGd/DESH-TV.png" group-title="BANGLADESH",DESH TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xqhhGHXc/NEXUS-TELEVISION-HD.png" group-title="BANGLADESH",NEXUS TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xqhhGHXc/NEXUS-TELEVISION-HD.png" group-title="BANGLADESH",NEXUS TV
 http://starshare.fun:8080/live/keerthi5599/superdeal34/411.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/DDjthm1R/EKHON-TV.png" group-title="BANGLADESH",EKHON HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/DDjthm1R/EKHON-TV.png" group-title="BANGLADESH",EKHON
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/ZpRkVYxf/DURONTO-TV.png" group-title="KID'S",DURONTO HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/ZpRkVYxf/DURONTO-TV.png" group-title="KID'S",DURONTO
 https://tvsen4.aynaott.com/durontotv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/nNB5kRKY/T-Sports-HD.png" group-title="SPORTS",TSPORTS HD
