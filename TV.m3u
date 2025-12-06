@@ -27,7 +27,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtLSNbmW/EKUSHEY-TELEVISION-HD.png" group-title="BANGLADESH",EKUSHEY TV
-https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream2.m3u8
+https://bozztv.com/rongo/rongo-EkusheyTV/tracks-v2a1/mono.m3u8
+#https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/rGFdn8DF/NTV-HD.png" group-title="BANGLADESH",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
