@@ -150,7 +150,7 @@ http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=277425&extensio
 #https://tiger-hub.vercel.app/Jalsha_movies/tracks-v1a1/mono.ts.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN BANGLA",ENTER10 BANGLA HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/WNQ6bffB/ENTER10-BANGLA.png" group-title="INDIAN BANGLA",ENTER10 BANGLA HD
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 
