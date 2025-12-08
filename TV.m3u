@@ -146,7 +146,7 @@ http://opplex.to:8080/A54997669/A54997668/245989
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/DPxzrBCS/JALSHA-MOVIES.png" group-title="INDIAN BANGLA",JALSHA MOVIES
 http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=277425&extension=ts&play_token=jdvXyryY9B
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN BANGLA",JALSHA MOVIES HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cK89Tgtt/JALSHA-MOVIES-HD.png" group-title="INDIAN BANGLA",JALSHA MOVIES HD
 #https://tiger-hub.vercel.app/Jalsha_movies/tracks-v1a1/mono.ts.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
 
