@@ -388,7 +388,8 @@ https://dish.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="SPORTS",A SPORTS HD
-http://iptvpro.stream:80/play/live.php?mac=00:1A:79:78:81:12&stream=104791&extension=m3u8&play_token=RQSnZcB4Mk
+https://tvsen6.aynaott.com/asports/index.m3u8
+#http://iptvpro.stream:80/play/live.php?mac=00:1A:79:78:81:12&stream=104791&extension=m3u8&play_token=RQSnZcB4Mk
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/ten-ckt-logo.png" group-title="SPORTS",TEN CRICKET HD
 https://allottplay.com/tv/toffee/live.php?cid=ten_cricket&key=91d72f3975de1019516c919b338bde25
