@@ -421,7 +421,8 @@ https://xfireflix.fun/stream/3ac46078-2bf0-4998-a021-37b459e09fba/index.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/starsports3/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Star-sports-select-1-hd.png/revision/latest?cb=20230128174313" group-title="SPORTS",STAR SPORTS SELECT 1 HD
-https://tvsen6.aynaott.com/spsel1/index.m3u8
+https://tvsen7.aynaott.com/ssps1hd/index.m3u8
+#https://tvsen6.aynaott.com/spsel1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/Star-sports-select-2-hd.png/revision/latest?cb=20230128175317" group-title="SPORTS",STAR SPORTS SELECT 2 HD
 https://tvsen7.aynaott.com/ssps2hd/index.m3u8
