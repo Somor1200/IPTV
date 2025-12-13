@@ -286,7 +286,7 @@ http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=277415&extensio
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Qjp8JfWw/DISCOVERY-SCIENCE.png" group-title="EDUCATIONAL",DISCOVERY SCIENCE
 https://live.dinesh29.com.np/stream/jiotvplus/discoveryscience/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/discoveryturbo.png" group-title="EDUCATIONAL",DISCOVERY TURBO
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZzQtDTyB/DISCOVERY-TURBO.png" group-title="EDUCATIONAL",DISCOVERY TURBO
 https://live.dinesh29.com.np/stream/jiotvplus/discoveryturbo/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dw8K8x29/HISTORY-TV18-HD.png" group-title="EDUCATIONAL",HISTORY TV18 HD
