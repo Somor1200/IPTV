@@ -370,19 +370,22 @@ https://tvsen6.aynaott.com/asports/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/ten-ckt-logo.png" group-title="SPORTS",TEN CRICKET HD
 https://allottplay.com/tv/toffee/live.php?cid=ten_cricket&key=91d72f3975de1019516c919b338bde25
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",STAR SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3mykb5c8/STAR-SPORTS-1.png" group-title="SPORTS",STAR SPORTS 1
 https://live.dinesh29.com.np/stream/jiotvplus/starsports1tamil/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",STAR SPORTS 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/YTpRk4Bc/STAR-SPORTS-1-HD.png" group-title="SPORTS",STAR SPORTS 1 HD
 https://tvsen5.aynaott.com/c9EpzZ6fQBJ3/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",STAR SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/V0zfDw4b/STAR-SPORTS-2.png" group-title="SPORTS",STAR SPORTS 2
 https://live.dinesh29.com.np/stream/jiotvplus/starsports2/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",STAR SPORTS 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zWhy2zRk/STAR-SPORTS-2-HD.png" group-title="SPORTS",STAR SPORTS 2 HD
 https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",STAR SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RGHjtYN3/STAR-SPORTS-3.png" group-title="SPORTS",STAR SPORTS 3
+https://live.dinesh29.com.np/stream/jiotvplus/starsports3/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/00pPjLX/STAR-SPORTS-3-HD.png" group-title="SPORTS",STAR SPORTS 3 HD
 https://live.dinesh29.com.np/stream/jiotvplus/starsports3/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",STAR SPORTS SELECT 1 HD
