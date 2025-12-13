@@ -231,7 +231,7 @@ http://iptvpro.stream:80/play/live.php?mac=00:1A:79:78:81:12&stream=155746&exten
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/0ywT6RVY/TV-HD.png" group-title="INDIAN",&TV HD
 http://iptvpro.stream:80/play/live.php?mac=00:1A:79:78:81:12&stream=280745&extension=m3u8&play_token=A8kgJnIgsS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/suntvhd.png" group-title="INDIAN",SUN TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/S7HVM0vq/SUN-TV-HD.png" group-title="INDIAN",SUN TV HD
 https://live.dinesh29.com.np/stream/jiotvplus/suntvhd/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/B4U_Network.png/revision/latest?cb=20240319195658" group-title="INDIAN",B4U MOVIES HD
