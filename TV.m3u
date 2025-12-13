@@ -198,15 +198,6 @@ https://live.dinesh29.com.np/stream/jiotvplus/starbharathd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3YSR6QdP/COLORS-HD.png" group-title="INDIAN",COLORS HD
 https://live.dinesh29.com.np/stream/jiotvplus/colorshd/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorscineplexbollywood.png" group-title="INDIAN",COLORS CINEPLEX
-https://live.dinesh29.com.np/stream/jiotvplus/colorscineplexbollywood/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorsinfinitysd.png" group-title="INDIAN",COLORS INFINITY
-https://live.dinesh29.com.np/stream/jiotvplus/colorsinfinity/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorsinfinityhd.png" group-title="INDIAN",COLORS INFINITY HD
-https://live.dinesh29.com.np/stream/jiotvplus/colorsinfinityhd/master.m3u8
-
 #EXTINF:-1 tvg-id="412170" tvg-logo="https://i.ibb.co/BV8vbTgh/SONY-MAX.png" group-title="INDIAN",SONY MAX
 http://opplex.to:8080/A54997669/A54997668/221259
 
@@ -224,9 +215,6 @@ https://live.dinesh29.com.np/stream/jiotvplus/stargoldselecthd/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/k2Bd3SgH/STAR-MOVIES-HD.png" group-title="INDIAN",STAR MOVIES HD
 https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starmoviesselect.png" group-title="INDIAN",STAR MOVIES SELECT
-https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselect/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7BRQ04H/STAR-MOVIES-SELECT-HD.png" group-title="INDIAN",STAR MOVIES SELECT HD
 https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8
